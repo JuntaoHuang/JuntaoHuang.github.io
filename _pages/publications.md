@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 ## Preprints
-27\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), , *arXiv preprint arXiv:2205.01488*, submitted, 2022.
+27\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), , *arXiv preprint arXiv:2205.01488*, submitted, 2022.
 
 26\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://arxiv.org/abs/2109.00700), *arXiv preprint arXiv:2109.00700*, submitted, 2021.
 
