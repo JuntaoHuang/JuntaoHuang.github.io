@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
+## [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 ## Preprints
 28\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *arXiv preprint arXiv:2207.06639*, submitted, 2022.
