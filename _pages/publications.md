@@ -8,7 +8,7 @@ author_profile: true
 ## [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 ## Preprints
-29\. F. Zhu, **Juntao Huang**, and Y. Yang. Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows, submitted, 2022.
+29\. F. Zhu, **J. Huang**, and Y. Yang. Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows, submitted, 2022.
 
 28\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *arXiv preprint arXiv:2207.06639*, submitted, 2022.
 
