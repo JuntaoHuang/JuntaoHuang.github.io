@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Juntao Huang"
 title_separator          : "-"
 name                     : &name "Juntao Huang"
-description              : &description "Visiting Assistant Professor"
+description              : &description "Assistant Professor"
 url                      : https://JuntaoHuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JuntaoHuang/JuntaoHuang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Juntao Huang"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor at Michigan State University"
-  location         : "East Lansing, Michigan"
+  bio              : "Assistant Professor at Texas Tech University"
+  location         : "Lubbock, Texas"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en"
-  email            : "huangj75@msu.edu"
+  email            : "juntao.huang@ttu.edu"
   researchgate     : "https://www.researchgate.net/profile/Juntao_Huang2"
   uri              :
   bitbucket        :
