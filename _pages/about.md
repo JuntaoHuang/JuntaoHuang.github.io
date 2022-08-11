@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [visiting assistant professor](https://math.msu.edu/directory/PersonalPage?id=111117030) in the [Department of Mathematics](https://math.msu.edu/) at [Michigan State University](https://msu.edu/).
+I am currently an assistant professor in the [Department of Mathematics and Statistics](https://www.depts.ttu.edu/math/) at [Texas Tech University](https://www.ttu.edu/).
 
 Education
 ======
@@ -19,7 +19,8 @@ Education
 
 Professional Experience
 ======
-- Visiting Assistant Professor, Department of Mathematics, Michigan State University, September 2018 - present. <br>
+- Assistant Professor, Department of Mathematics and Statistics at Texas Tech University, August 2022 - present.
+- Visiting Assistant Professor, Department of Mathematics, Michigan State University, September 2018 - August 2022. <br>
   Mentor: [Prof. Yingda Cheng](https://sites.google.com/view/yingda-cheng/) and [Prof. Andrew J. Christlieb](http://www.the-christlieb-group.org/)
 - Visiting Ph.D. student, Division of Applied Mathematics, Brown University, September 2015 - September 2016. <br>
   Mentor: [Prof. Chi-Wang Shu](http://www.dam.brown.edu/people/shu/)
