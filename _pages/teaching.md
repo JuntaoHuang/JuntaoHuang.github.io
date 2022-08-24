@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Current courses:
+## Current courses:
 - *MATH 3351, Higher Mathematics for Engineers and Scientists II*
 - *MATH 4354, Differential Equation II*
 
 
-# Past courses:
+## Past courses:
 
 ### Michigan State University (Instructor):
 - *MTH 124, Survey of Calculus I* (online), Spring 2021
