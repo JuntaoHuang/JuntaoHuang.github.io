@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ## Current courses:
-- *MATH 3351, Higher Mathematics for Engineers and Scientists II*
-- *MATH 4354, Differential Equation II*
+### Texas Tech University (Instructor):
+- *MATH 3351, Higher Mathematics for Engineers and Scientists II*, Fall 2022
+- *MATH 4354, Differential Equation II*, Fall 2022
 
 
 ## Past courses:
