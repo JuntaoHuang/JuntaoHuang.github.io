@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-***[Adaptive multiresolution DG](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)***
+***[Adaptive Multiresolution DG](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)***
 
 This is an adaptive multiresolution discontinuous Galerkin (DG) C++ package for solving partial differential equations in high dimensions.
 
