@@ -5,18 +5,18 @@ permalink: /personal/
 author_profile: true
 ---
 
-## Photography
+I like photography in my leisure time.
 
 ## Northern Michigan
 
-![](../images/11.jpg)
+![](../images/11.jpeg)
 
-![](../images/12.jpg)
+![](../images/12.jpeg)
 
-![](../images/13.jpg)
+![](../images/13.jpeg)
 
-![](../images/14.jpg)
+![](../images/14.jpeg)
 
-![](../images/15.jpg)
+![](../images/15.jpeg)
 
-![](../images/16.jpg)
+![](../images/16.jpeg)
