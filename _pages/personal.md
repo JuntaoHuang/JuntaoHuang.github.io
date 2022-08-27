@@ -7,6 +7,12 @@ author_profile: true
 
 I like photography in my leisure time.
 
+## [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University)
+
+
+## [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University)
+
+
 ## [Northern Michigan](https://en.wikipedia.org/wiki/Northern_Michigan)
 
 ![](../images/11.jpeg)
