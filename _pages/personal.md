@@ -7,7 +7,7 @@ author_profile: true
 
 I like photography in my leisure time.
 
-## Northern Michigan
+## [Northern Michigan](https://en.wikipedia.org/wiki/Northern_Michigan)
 
 ![](../images/11.jpeg)
 
@@ -20,3 +20,13 @@ I like photography in my leisure time.
 ![](../images/15.jpeg)
 
 ![](../images/16.jpeg)
+
+## [Xinjiang 新疆](https://en.wikipedia.org/wiki/Xinjiang)
+
+![](../images/51.jpg)
+
+![](../images/52.jpg)
+
+![](../images/53.jpg)
+
+![](../images/54.jpg)
