@@ -12,6 +12,17 @@ I like photography in my leisure time.
 
 ## [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University)
 
+![](../images/01.jpeg)
+
+![](../images/02.jpeg)
+
+![](../images/03.jpeg)
+
+![](../images/04.jpeg)
+
+![](../images/05.jpeg)
+
+![](../images/06.jpeg)
 
 ## [Northern Michigan](https://en.wikipedia.org/wiki/Northern_Michigan)
 
