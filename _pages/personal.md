@@ -7,7 +7,7 @@ author_profile: true
 
 I like photography in my leisure time.
 
-## [Olympic National Park](https://en.wikipedia.org/wiki/Olympic_National_Park) and [Mount Rainier National Park](https://en.wikipedia.org/wiki/Mount_Rainier_National_Park)
+## Olympic National Park and Mount Rainier National Park
 
 ![](../images/31.jpeg)
 
@@ -19,7 +19,7 @@ I like photography in my leisure time.
 
 ![](../images/35.jpeg)
 
-## [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University)
+## Michigan State University
 
 ![](../images/21.jpeg)
 
@@ -31,7 +31,16 @@ I like photography in my leisure time.
 
 ![](../images/25.jpg)
 
-## [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University)
+## Snow in Chicago
+
+![](../images/01.jpeg)
+
+![](../images/02.jpeg)
+
+![](../images/03.jpeg)
+
+
+## Northwestern University
 
 ![](../images/01.jpeg)
 
@@ -45,7 +54,7 @@ I like photography in my leisure time.
 
 ![](../images/06.jpeg)
 
-## [Northern Michigan](https://en.wikipedia.org/wiki/Northern_Michigan)
+## Northern Michigan
 
 ![](../images/11.jpeg)
 
@@ -59,7 +68,7 @@ I like photography in my leisure time.
 
 ![](../images/16.jpeg)
 
-## [Xinjiang 新疆](https://en.wikipedia.org/wiki/Xinjiang)
+## Xinjiang 新疆
 
 ![](../images/51.jpg)
 
