@@ -19,25 +19,14 @@ I like photography in my leisure time.
 
 ![](../images/35.jpeg)
 
-## Michigan State University
-
-![](../images/21.jpeg)
-
-![](../images/22.jpeg)
-
-![](../images/23.jpeg)
-
-![](../images/24.jpeg)
-
-![](../images/25.jpg)
 
 ## Snow in Chicago
 
-![](../images/01.jpeg)
+![](../images/41.jpeg)
 
-![](../images/02.jpeg)
+![](../images/42.jpeg)
 
-![](../images/03.jpeg)
+![](../images/43.jpeg)
 
 
 ## Northwestern University
@@ -54,6 +43,20 @@ I like photography in my leisure time.
 
 ![](../images/06.jpeg)
 
+
+## Michigan State University
+
+![](../images/21.jpeg)
+
+![](../images/22.jpeg)
+
+![](../images/23.jpeg)
+
+![](../images/24.jpeg)
+
+![](../images/25.jpg)
+
+
 ## Northern Michigan
 
 ![](../images/11.jpeg)
@@ -67,6 +70,7 @@ I like photography in my leisure time.
 ![](../images/15.jpeg)
 
 ![](../images/16.jpeg)
+
 
 ## Xinjiang 新疆
 
