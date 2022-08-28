@@ -7,6 +7,18 @@ author_profile: true
 
 I like photography in my leisure time.
 
+## [Olympic National Park](https://en.wikipedia.org/wiki/Olympic_National_Park) and [Mount Rainier National Park](https://en.wikipedia.org/wiki/Mount_Rainier_National_Park)
+
+![](../images/31.jpeg)
+
+![](../images/32.jpeg)
+
+![](../images/33.jpeg)
+
+![](../images/34.jpeg)
+
+![](../images/35.jpeg)
+
 ## [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University)
 
 ![](../images/21.jpeg)
