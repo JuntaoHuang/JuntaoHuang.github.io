@@ -9,6 +9,15 @@ I like photography in my leisure time.
 
 ## [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University)
 
+![](../images/21.jpeg)
+
+![](../images/22.jpeg)
+
+![](../images/23.jpeg)
+
+![](../images/24.jpeg)
+
+![](../images/25.jpg)
 
 ## [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University)
 
