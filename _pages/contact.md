@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contact info"
 permalink: /contact/
 author_profile: true
 ---
-
-## Contact info
 
 Department of Mathematics & Statistics\
 Texas Tech University\
