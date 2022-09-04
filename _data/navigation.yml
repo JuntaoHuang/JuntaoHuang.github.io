@@ -15,7 +15,8 @@ main:
   - title: "Software"
     url: /software/   
 
-  - title: "Personal Life"
+  - title: "Personal life"
     url: /personal/   
-    
 
+  - title: "Contact info"
+    url: /contact/
