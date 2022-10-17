@@ -8,7 +8,7 @@ author_profile: true
 ## [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 ## Preprints
-30\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations, submitted, 2022.
+30\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), submitted, 2022.
 
 29\. F. Zhu, **J. Huang**, and Y. Yang. Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows, submitted, 2022.
 
