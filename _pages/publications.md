@@ -18,11 +18,11 @@ author_profile: true
 
 27\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), , *arXiv preprint arXiv:2205.01488*, submitted, 2022.
 
-26\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://arxiv.org/abs/2109.00700), *arXiv preprint arXiv:2109.00700*, submitted, 2021.
-
-25\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
+26\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
 
 ## Publications in Refereed Journals
+25\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://arxiv.org/abs/2109.00700),  *Journal of Scientific Computing*, to appear, 2022.
+
 24\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure](https://www.sciencedirect.com/science/article/pii/S0021999122000031), *Journal of Computational Physics*, 453, 110941, 2022.
 
 23\. **J. Huang**, Y. Liu, Y. Liu, Z. Tao, and Y. Cheng. [A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations](https://epubs.siam.org/doi/10.1137/21M1411391), *SIAM Journal on Scientific Computing*, 44(2), A745-A769, 2022.
