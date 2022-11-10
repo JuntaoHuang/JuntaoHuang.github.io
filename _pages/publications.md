@@ -12,16 +12,16 @@ author_profile: true
 
 30\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), submitted, 2022.
 
-29\. F. Zhu, **J. Huang**, and Y. Yang. Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows, submitted, 2022.
+29\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *arXiv preprint arXiv:2207.06639*, submitted, 2022.
 
-28\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *arXiv preprint arXiv:2207.06639*, submitted, 2022.
+28\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), , *arXiv preprint arXiv:2205.01488*, submitted, 2022.
 
-27\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), , *arXiv preprint arXiv:2205.01488*, submitted, 2022.
-
-26\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
+27\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
 
 ## Publications in Refereed Journals
-25\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://arxiv.org/abs/2109.00700),  *Journal of Scientific Computing*, to appear, 2022.
+26\. F. Zhu, **J. Huang**, and Y. Yang. Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows, *Communications on Applied Mathematics and Computation*, to appear, (Focused issue in memory of Prof. Ching-Shan Chou).
+
+25\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://arxiv.org/abs/2109.00700),  *Journal of Scientific Computing*, to appear.
 
 24\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure](https://www.sciencedirect.com/science/article/pii/S0021999122000031), *Journal of Computational Physics*, 453, 110941, 2022.
 
@@ -35,7 +35,7 @@ author_profile: true
 
 19\. W. Zhao, **J. Huang**, and W.-A. Yong. [Lattice Boltzmann method for stochastic convection-diffusion equations](https://epubs.siam.org/doi/abs/10.1137/19M1270665), *SIAM/ASA Journal on Uncertainty Quantification*, 9(2), 536-563, 2021.
 
-18\. Z. Tao, **J. Huang**, Y. Liu, W. Guo, and Y. Cheng. [An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations](https://link.springer.com/article/10.1007/s42967-020-00096-0), *Communications on Applied Mathematics and Computation*, 1-24, 2021.
+18\. Z. Tao, **J. Huang**, Y. Liu, W. Guo, and Y. Cheng. [An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations](https://link.springer.com/article/10.1007/s42967-020-00096-0), *Communications on Applied Mathematics and Computation*, 1-24, 2021. (Special issue on discontinuous Galerkin methods).
 
 17\. **J. Huang**, Y. Liu, W. Guo, Z. Tao, and Y. Cheng. [An adaptive multiresolution interior penalty discontinuous Galerkin method for wave equations in second order form](https://link.springer.com/article/10.1007/s10915-020-01322-w), *Journal of Scientific Computing*, 85 (13), 2020.
 
