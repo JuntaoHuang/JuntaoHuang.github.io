@@ -19,7 +19,7 @@ author_profile: true
 27\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *arXiv preprint arXiv:2105.14410*, submitted, 2021.
 
 ## Publications in Refereed Journals
-26\. F. Zhu, **J. Huang**, and Y. Yang. Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows, *Communications on Applied Mathematics and Computation*, to appear, (Focused issue in memory of Prof. Ching-Shan Chou).
+26\. F. Zhu, **J. Huang**, and Y. Yang. [Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows](https://arxiv.org/abs/2211.05600), *Communications on Applied Mathematics and Computation*, to appear, (Focused issue in memory of Prof. Ching-Shan Chou).
 
 25\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://arxiv.org/abs/2109.00700),  *Journal of Scientific Computing*, to appear.
 
