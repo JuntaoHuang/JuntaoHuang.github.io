@@ -8,9 +8,9 @@ author_profile: true
 ## [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 ## Preprints
-31\. **J. Huang**, W. Guo, and Y. Cheng. [Adaptive sparse grid discontinuous Galerkin method: review and software implementation](https://arxiv.org/abs/2211.01531), submitted, 2022.
+31\. **J. Huang**, W. Guo, and Y. Cheng. [Adaptive sparse grid discontinuous Galerkin method: review and software implementation](https://arxiv.org/abs/2211.01531), *arXiv preprint arXiv:2211.01531* submitted, 2022.
 
-30\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), submitted, 2022.
+30\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), *arXiv preprint arXiv:2210.07908* submitted, 2022.
 
 29\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *arXiv preprint arXiv:2207.06639*, submitted, 2022.
 
