@@ -17,7 +17,7 @@ author_profile: true
 ## Publications in Refereed Journals
 28\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), *ESAIM: Mathematical Modelling and Numerical Analysis (M2AN)*, to appear.
 
-27\. F. Zhu, **J. Huang**, and Y. Yang. [Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows](https://arxiv.org/abs/2211.05600), *Communications on Applied Mathematics and Computation*, to appear, (Focused issue in memory of Prof. Ching-Shan Chou).
+27\. F. Zhu, **J. Huang**, and Y. Yang. [Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows](https://link.springer.com/article/10.1007/s42967-022-00231-z), *Communications on Applied Mathematics and Computation* (Focused issue in memory of Prof. Ching-Shan Chou), 1-28, 2023.
 
 26\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://link.springer.com/article/10.1007/s10915-022-02056-7),  *Journal of Scientific Computing*, 94(1), 1-27, 2023.
 
