@@ -12,9 +12,9 @@ author_profile: true
 
 30\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), *arXiv preprint arXiv:2210.07908*, submitted, 2022.
 
-29\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *arXiv preprint arXiv:2207.06639*, submitted, 2022.
-
 ## Publications in Refereed Journals
+29\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *Mathematics of Computation*, to appear.
+
 28\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), *ESAIM: Mathematical Modelling and Numerical Analysis (M2AN)*, to appear.
 
 27\. F. Zhu, **J. Huang**, and Y. Yang. [Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows](https://link.springer.com/article/10.1007/s42967-022-00231-z), *Communications on Applied Mathematics and Computation* (Focused issue in memory of Prof. Ching-Shan Chou), 1-28, 2023.
