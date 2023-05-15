@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## Current courses:
-- *MATH 4000, Undergraduate Research -- Machine Learning Model Order Reduction for Differential Equations*, Spring 2023
+- *MATH 5334, Numerical Analysis I*, Fall 2023
+- *MATH 5346, Introduction to Data Science and Machine Learning*, Fall 2023
 
 ## Past courses:
 
 ### Texas Tech University (Instructor):
+- *MATH 4000, Undergraduate Research (Machine Learning Model Order Reduction for Differential Equations)*, Spring 2023
 - *MATH 3351, Higher Mathematics for Engineers and Scientists II*, Fall 2022
 - *MATH 4354, Differential Equation II*, Fall 2022
 
