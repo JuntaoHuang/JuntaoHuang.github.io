@@ -13,9 +13,9 @@ author_profile: true
 ## Publications in Refereed Journals
 30\. **J. Huang**, W. Guo, and Y. Cheng. [Adaptive sparse grid discontinuous Galerkin method: review and software implementation](https://link.springer.com/article/10.1007/s42967-023-00268-8), *Communications on Applied Mathematics and Computation*, 2023. (Focused issue in memory of Prof. Ching-Shan Chou).
 
-29\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *Mathematics of Computation*, to appear.
+29\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://www.ams.org//journals/mcom/2023-92-343/S0025-5718-2023-03845-5/), *Mathematics of Computation*, 92, 2133-2165, 2023.
 
-28\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), *ESAIM: Mathematical Modelling and Numerical Analysis (M2AN)*, to appear.
+28\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://www.esaim-m2an.org/articles/m2an/abs/2023/02/m2an220094/m2an220094.html), *ESAIM: Mathematical Modelling and Numerical Analysis (M2AN)*, 57, 1063–1086, 2023.
 
 27\. F. Zhu, **J. Huang**, and Y. Yang. [Bound-preserving discontinuous Galerkin methods with modified Patankar time integrations for chemical reacting flows](https://link.springer.com/article/10.1007/s42967-022-00231-z), *Communications on Applied Mathematics and Computation*, 1-28, 2023. (Focused issue in memory of Prof. Ching-Shan Chou).
 
