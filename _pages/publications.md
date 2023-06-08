@@ -8,11 +8,11 @@ author_profile: true
 ## [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 ## Preprints
-31\. **J. Huang**, W. Guo, and Y. Cheng. [Adaptive sparse grid discontinuous Galerkin method: review and software implementation](https://arxiv.org/abs/2211.01531), *arXiv preprint arXiv:2211.01531*, submitted, 2022.
-
-30\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), *arXiv preprint arXiv:2210.07908*, submitted, 2022.
+31\. A. Galindo-Olarte, **J. Huang**, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), *arXiv preprint arXiv:2210.07908*, submitted, 2022.
 
 ## Publications in Refereed Journals
+30\. **J. Huang**, W. Guo, and Y. Cheng. [Adaptive sparse grid discontinuous Galerkin method: review and software implementation](https://link.springer.com/article/10.1007/s42967-023-00268-8), *Communications on Applied Mathematics and Computation* (Focused issue in memory of Prof. Ching-Shan Chou), 2023.
+
 29\. **J. Huang**, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://arxiv.org/abs/2207.06639), *Mathematics of Computation*, to appear.
 
 28\. **J. Huang**, T. Izgin, S. Kopecz, A. Meister, and C.-W. Shu. [On the stability of strong-stability-preserving modified Patankar Runge-Kutta schemes](https://arxiv.org/abs/2205.01488), *ESAIM: Mathematical Modelling and Numerical Analysis (M2AN)*, to appear.
