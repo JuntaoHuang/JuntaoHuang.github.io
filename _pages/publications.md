@@ -21,7 +21,7 @@ author_profile: true
 
 26\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds](https://link.springer.com/article/10.1007/s10915-022-02056-7),  *Journal of Scientific Computing*, 94(1), 1-27, 2023.
 
-25\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://arxiv.org/abs/2105.14410), *SIAM Journal on Multiscale Modeling and Simulation*, to appear.
+25\. **J. Huang**, Y. Cheng, A. J. Christlieb, L. F. Roberts, and W.-A. Yong. [Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures](https://epubs.siam.org/doi/full/10.1137/21M1423956), *SIAM Journal on Multiscale Modeling and Simulation*, 21(2), 489–512, 2023.
 
 24\. **J. Huang**, Y. Cheng, A. J. Christlieb, and L. F. Roberts. [Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure](https://www.sciencedirect.com/science/article/pii/S0021999122000031), *Journal of Computational Physics*, 453, 110941, 2022.
 
