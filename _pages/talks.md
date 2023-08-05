@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Invited talks at conference minisymposium
+- Midwest Numerical Analysis Day 2023, Ames, IA, 04/2023.
 - 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, TX, 11/2022.
 - The 7th Annual Meeting of SIAM Central States Section, Stillwater, OK, 10/2022.
 - 2022 SIAM Annual Meeting, Pittsburgh, PA, 07/2022.
@@ -22,6 +23,12 @@ author_profile: true
 
 
 ## Invited talks at department seminars/colloquia
+- Seminar, Peking University, China, 05/2023 (virtual).
+- Seminar, University of Delaware, DE, 02/2023 (virtual).
+- Seminar, Chinese Academy of Sciences, China, 02/2023 (virtual).
+- Seminar, University of Pennsylvania, PA, 12/2022 (virtual).
+- Seminar, New York University Abu Dhabi, United Arab Emirates, 12/2022 (virtual).
+- Seminar, Beijing Normal University at Zhuhai, China, 12/2022 (virtual).
 - Seminar, Hunan University, China, 12/2021 (virtual).
 - Seminar, Jilin University, China, 11/2021 (virtual).
 - Seminar, Texas Tech University, 04/2021 (virtual).
