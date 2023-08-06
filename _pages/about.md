@@ -27,11 +27,13 @@ Professional Experience
 
 Research Interests
 ======
-My research interests mainly focus on scientific computing, numerical analysis, and scientific machine learning. Topics of special interests include:
+Scientific computing, numerical analysis, and scientific machine learning.
 - Structure-preserving machine learning moment closures for kinetic models
 - Adaptive sparse grid discontinuous Galerkin methods for high-dimensional PDEs
 - Structure-preserving time discretizations for hyperbolic balance laws
 - High order numerical boundary conditions for hyperbolic equations
 - Boundary schemes of lattice Boltzmann method
 
-My current research is partially supported by [NSF DMS-2309655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309655), which is greatly appreciated.
+Awards
+======
+- [NSF DMS-2309655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309655) (2023/08 - 2026/07).
