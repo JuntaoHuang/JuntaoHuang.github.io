@@ -4,7 +4,6 @@ title: " "
 permalink: /research/
 author_profile: true
 ---
-
 ## Research Interests
 
 Scientific computing, numerical analysis, and scientific machine learning.
