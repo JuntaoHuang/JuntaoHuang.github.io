@@ -30,4 +30,4 @@ Scientific computing, numerical analysis, and scientific machine learning.
 - Boundary schemes of lattice Boltzmann method
 
 ## Awards
-- Sole PI, [NSF DMS-2309655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309655), Structure-preserving machine learning moment closures for kinetic equations, 2023/08 - 2026/07.
+- Sole PI, [NSF DMS-2309655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309655), Structure-preserving machine learning moment closures for kinetic equations, 08/2023 - 07/2026.
