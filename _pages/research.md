@@ -7,12 +7,10 @@ author_profile: true
 ## Research Interests
 
 Scientific computing, numerical analysis, and scientific machine learning.
-
-- Structure-preserving machine learning moment closures for kinetic models
-- Adaptive sparse grid discontinuous Galerkin (DG) methods for high-dimensional PDEs
-- Structure-preserving time discretizations for hyperbolic balance laws
-- High order numerical boundary conditions for hyperbolic equations
-- Boundary schemes of lattice Boltzmann methods
+- Machine learning moment closures for kinetic models
+- Adaptive sparse grid discontinuous Galerkin methods for high-dimensional PDEs
+- High-order numerical schemes for hyperbolic equations
+- Boundary schemes of lattice Boltzmann method
 
 ## [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
