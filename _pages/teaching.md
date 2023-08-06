@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Teaching"
+title: " "
 permalink: /teaching/
 author_profile: true
 ---
-
 ## Current courses:
 - *MATH 5334, Numerical Analysis I*, Fall 2023
 - *MATH 5346, Introduction to Data Science and Machine Learning*, Fall 2023
