@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## About me
 I am currently an assistant professor in the [Department of Mathematics and Statistics](https://www.depts.ttu.edu/math/) at [Texas Tech University](https://www.ttu.edu/).
 
 ## Education
