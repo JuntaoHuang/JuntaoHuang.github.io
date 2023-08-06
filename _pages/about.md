@@ -24,11 +24,10 @@ I am currently an assistant professor in the [Department of Mathematics and Stat
 
 ## Research Interests
 Scientific computing, numerical analysis, and scientific machine learning.
-- Structure-preserving machine learning moment closures for kinetic models
+- Machine learning moment closures for kinetic models
 - Adaptive sparse grid discontinuous Galerkin methods for high-dimensional PDEs
-- Structure-preserving time discretizations for hyperbolic balance laws
-- High order numerical boundary conditions for hyperbolic equations
+- High-order numerical schemes for hyperbolic equations
 - Boundary schemes of lattice Boltzmann method
 
 ## Awards
-- [NSF DMS-2309655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309655) (2023/08 - 2026/07).
+- Sole PI, [NSF DMS-2309655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309655), Structure-preserving machine learning moment closures for kinetic equations, 2023/08 - 2026/07.
