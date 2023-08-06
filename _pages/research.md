@@ -82,3 +82,9 @@ Scientific computing, numerical analysis, and scientific machine learning.
 2\. J. Huang, H. Wu, and W.-A. Yong. [On initial conditions for the lattice Boltzmann method](https://www.cambridge.org/core/journals/communications-in-computational-physics/article/abs/on-initial-conditions-for-the-lattice-boltzmann-method/F91B48E2BCA5942B3649EE56A4322DB5), *Communications in Computational Physics*, 18(2), 450-468, 2015.
 
 1\. J. Huang, L. Zhang, W.-A. Yong, and M. Wang. [On complex boundary conditions of the lattice Boltzmann method for the diffusion equations](http://www.cqvip.com/QK/95055X/20143/48769791.html), *Applied Mathematics and Mechanics (Chinese Edition)*, 35(3), 305-312, 2014.
+
+## Software
+
+***[AdaM-DG (Adaptive Multiresolution DG)](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)***
+
+I developed an adaptive multiresolution discontinuous Galerkin (DG) C++ package for solving partial differential equations in high dimensions.
