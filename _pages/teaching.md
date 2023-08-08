@@ -4,8 +4,8 @@ title: " "
 permalink: /teaching/
 author_profile: true
 ---
-## Current courses:
-- *MATH 5334, Numerical Analysis I*, Fall 2023
+## Current courses at Texas Tech University:
+- *MATH 2450, Calculus III with Applications*, Fall 2023
 - *MATH 5346, Introduction to Data Science and Machine Learning*, Fall 2023
 
 ## Past courses:
