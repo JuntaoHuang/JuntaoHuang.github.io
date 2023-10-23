@@ -12,9 +12,9 @@ author_profile: true
 
 32\. M. Bauerle, A. J. Christlieb, M. Ding, and J. Huang. [On the rotational invariance and hyperbolicity of shallow water moment equations in two dimensions](https://arxiv.org/abs/2306.07202), *arXiv preprint arXiv:2306.07202*, submitted, 2023.
 
-31\. A. Galindo-Olarte, J. Huang, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://arxiv.org/abs/2210.07908), *arXiv preprint arXiv:2210.07908*, submitted, 2022.
-
 ## Publications in Refereed Journals
+31\. A. Galindo-Olarte, J. Huang, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://link.springer.com/article/10.1007/s10543-023-00993-9), *BIT Numerical Mathematics*, 63(4), 52, 2023.
+
 30\. J. Huang, W. Guo, and Y. Cheng. [Adaptive sparse grid discontinuous Galerkin method: review and software implementation](https://link.springer.com/article/10.1007/s42967-023-00268-8), *Communications on Applied Mathematics and Computation*, 2023. (Focused issue in memory of Prof. Ching-Shan Chou).
 
 29\. J. Huang, R. Li, and Y. Zhou. [Coupling conditions for linear hyperbolic relaxation systems in two-scales problems](https://www.ams.org//journals/mcom/2023-92-343/S0025-5718-2023-03845-5/), *Mathematics of Computation*, 92, 2133-2165, 2023.
