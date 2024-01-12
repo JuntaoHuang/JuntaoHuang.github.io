@@ -8,6 +8,8 @@ author_profile: true
 ## [Google Scholar](https://scholar.google.com/citations?user=oGmIfDQAAAAJ&hl=en)
 
 ## Preprints
+34\. A. J. Christlieb, M. Ding, J. Huang, and N. A. Krupansky. [Hyperbolic Machine Learning Moment Closures for the BGK Equations](https://arxiv.org/abs/2401.04783), *arXiv preprint arXiv:2401.04783*, submitted, 2024.
+
 33\. Z. Ma, J. Huang, and W.-A. Yong. [Uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for linear hyperbolic relaxation systems](https://arxiv.org/abs/2310.05342), *arXiv preprint arXiv:2310.05342*, submitted, 2023.
 
 32\. M. Bauerle, A. J. Christlieb, M. Ding, and J. Huang. [On the rotational invariance and hyperbolicity of shallow water moment equations in two dimensions](https://arxiv.org/abs/2306.07202), *arXiv preprint arXiv:2306.07202*, submitted, 2023.
