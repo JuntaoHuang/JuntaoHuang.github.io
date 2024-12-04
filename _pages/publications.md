@@ -13,9 +13,9 @@ author_profile: true
 
 33\. Z. Ma, J. Huang, and W.-A. Yong. [Uniform accuracy of implicit-explicit backward differentiation formulas (IMEX-BDF) for linear hyperbolic relaxation systems](https://arxiv.org/abs/2310.05342), *arXiv preprint arXiv:2310.05342*, submitted, 2023.
 
-32\. M. Bauerle, A. J. Christlieb, M. Ding, and J. Huang. [On the rotational invariance and hyperbolicity of shallow water moment equations in two dimensions](https://arxiv.org/abs/2306.07202), *arXiv preprint arXiv:2306.07202*, submitted, 2023.
-
 ## Publications in Refereed Journals
+32\. M. Bauerle, A. J. Christlieb, M. Ding, and J. Huang. [On the rotational invariance and hyperbolicity of shallow water moment equations in two dimensions](https://arxiv.org/abs/2306.07202), *arXiv preprint arXiv:2306.07202*, *SIAM Journal on Mathematical Analysis*, accepted, 2024.
+
 31\. A. Galindo-Olarte, J. Huang, J. Ryan, and Y. Cheng. [Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations](https://link.springer.com/article/10.1007/s10543-023-00993-9), *BIT Numerical Mathematics*, 63(4), 52, 2023.
 
 30\. J. Huang, W. Guo, and Y. Cheng. [Adaptive sparse grid discontinuous Galerkin method: review and software implementation](https://link.springer.com/article/10.1007/s42967-023-00268-8), *Communications on Applied Mathematics and Computation*, 2023. (Focused issue in memory of Prof. Ching-Shan Chou).
